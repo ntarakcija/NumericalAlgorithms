@@ -1,4 +1,4 @@
-# NumericalAlgorithms
+# Numerical Algorithms
 
 This is a set of numerical algorithms and objects for common math problems.
 
@@ -26,7 +26,7 @@ These C++ files include implementations of the following algorithms and object:
 - SOLVING NONLINEAR EQUATIONS
   - Bisection Method
   - Regula Falsi
-  - Ridder's Algorithm
-  - Newton's Algorithm
-  - Laguerre's Algorithm
+  - Ridder's Method
+  - Newton's Method
+  - Laguerre's Method
 - FINDING POLYNOMIAL ROOTS
